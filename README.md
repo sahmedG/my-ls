@@ -1,5 +1,5 @@
 My-LS
-
+![image](https://parsifar.com/wp-content/uploads/2021/10/ls-command.jpg)
 Overview
 My-LS is a GoLang program that emulates the functionality of the ls command, providing a simple and customizable way to list files and directories in a specified location. The program supports various flags, including -r, -R, -t, -a, and -l, enabling users to tailor the output to their specific needs.
 
